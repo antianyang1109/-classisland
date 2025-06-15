@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "安化三中Classisland集控",
+    "OrganizationName": "安化县第三高级中学",
     "ClassPlanSoure":{
         "Value":"https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/classplans.json",
         "Version": 3
