@@ -15,6 +15,6 @@
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/242/policy.json",
-        "Version": 3
+        "Version": 4
     }
 }
