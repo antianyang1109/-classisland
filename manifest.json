@@ -3,14 +3,18 @@
     "OrganizationName": "安化三中Classisland集控",
     "ClassPlanSoure":{
         "Value":"https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/classplans.json",
-        "Version": 1
+        "Version": 2
     },
      "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/subjects.json",
-        "Version": 1
+        "Version": 2
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/policy.json",
+        "Version": 2
     }
 }
