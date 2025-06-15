@@ -1,4 +1,16 @@
 {
     "ServerKind": 0,
-    "OrganizationName": "安化三中Classisland集控"
+    "OrganizationName": "安化三中Classisland集控",
+    "ClassPlanSoure":{
+        "Value":"https://raw.githubusercontent.com/antianyang1109/master/classplans.json",
+        "Version": 1
+    },
+     "TimeLayoutSource": {
+        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/timelayouts.json",
+        "Version": 1
+    },
+    "SubjectsSource": {
+        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    }
 }
