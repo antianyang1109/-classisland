@@ -14,8 +14,8 @@
         "Version": 4
     },
     "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/242/policy.json",
-        "Version": 5
+        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/policy.json",
+        "Version": 6
     },
      "ClassPlanSoure":{
         "Value":"https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/243/classplans.json",
@@ -29,10 +29,6 @@
         "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/243/subjects.json",
         "Version": 1
     },
-    "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/243/policy.json",
-        "Version": 1
-    },
      "ClassPlanSoure":{
         "Value":"https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/244/classplans.json",
         "Version": 3
@@ -44,9 +40,5 @@
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/244/subjects.json",
         "Version": 4
-    },
-    "PolicySource": {
-        "Value": "https://raw.githubusercontent.com/antianyang1109/classisland-mgmt-cfg/master/244/policy.json",
-        "Version": 5
     }
 }
